@@ -1,196 +1,192 @@
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                  DEVESH LINGUTLA — GITHUB PROFILE         -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--           DEVESH LINGUTLA — GITHUB PROFILE README           -->
+<!-- ══════════════════════════════════════════════════════════════ -->
 
-<!-- VENOM HEADER — electric indigo/violet, unique spiky shape -->
+<!-- WAVING HEADER — purple palette -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0221,50:3a0ca3,100:7b2fff&height=280&section=header&text=DEVESH%20LINGUTLA&fontSize=52&fontColor=e0aaff&fontAlignY=38&fontAlign=50&desc=Neural%20Systems%20Researcher%20%7C%20IEEE%20Author%20%7C%20Deep%20Learning%20Engineer&descAlignY=58&descSize=16&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,40:3a0ca3,100:7b2fff&height=260&section=header&text=Devesh%20Lingutla&fontSize=58&fontColor=e0aaff&fontAlignY=38&fontAlign=50&desc=AI%20Researcher%20%7C%20Deep%20Learning%20%7C%20IEEE%20Author&descAlignY=60&descSize=18&animation=fadeIn" />
 </p>
 
-<!-- ── LIVE STAT BADGES ── -->
+<!-- TYPING SVG -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Devesh6996&color=7b2fff&style=for-the-badge&label=PROFILE+VIEWS" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/STATUS-MSc%20Applicant%202027-7b2fff?style=for-the-badge" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/IEEE-Under%20Review-c77dff?style=for-the-badge&logo=ieee&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/IELTS-Band%207-48cae4?style=for-the-badge" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2600&pause=800&color=C77DFF&center=true&vCenter=true&width=850&lines=Researcher+by+Curiosity%3B+Engineer+by+Obsession;BiLSTM+%2B+Attention+Mechanism+%2B+Cost-Aware+Loss;wav2vec+2.0+%7C+Focal+Loss+%7C+Ensemble+Learning;ECE+%E2%86%92+Deep+Learning+%E2%86%92+MSc+CS+%2F+Data+Science;Building+systems+that+learn%2C+adapt+and+scale" />
 </p>
 
-<!-- ── TYPING ANIMATION — unique ML-flavoured phrases ── -->
+<!-- SOCIAL LINKS -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=900&color=C77DFF&center=true&vCenter=true&width=820&lines=Neural+Researcher+by+curiosity%2C+Engineer+by+obsession;BiLSTM+%2B+Attention+Mechanism+%2B+Cost-Aware+Loss;wav2vec+2.0+%7C+Focal+Loss+%7C+Ensemble+Learning;ECE+%E2%86%92+Deep+Learning+%E2%86%92+MSc+CS+%2F+Data+Science;Building+systems+that+learn%2C+adapt+and+scale" />
+  <a href="mailto:devesh6996@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/devesh-lingutla-7820122a8/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+  </a>
 </p>
+
+<!-- ANIMATED GIF ICON ROW -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="60" />
+  <img src="https://user-images.githubusercontent.com/74038190/212281763-e6ecd7ef-c4aa-45b6-a97c-f33f6bb592bd.gif" width="60" />
+  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="60" />
+  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="60" />
+  <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="60" />
+  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="60" />
+</p>
+
+<!-- DIVIDER -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7b2fff,100:3a0ca3&height=3" />
 
 <br/>
 
-<!-- ════════════════════════  MODEL CARD  ════════════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7b2fff,100:3a0ca3&height=3" />
+## 🧬 About Me
 
-## 🧬 SYSTEM PROFILE
+<img align="right" src="https://media1.tenor.com/m/9-k5BGypA-oAAAAC/nub-nub-cat.gif" width="220" />
 
-> *"Training on real-world problems. Optimising for impact."*
+Researcher by curiosity.
+Engineer by obsession.
+Builder by instinct.
+
+I build systems that **learn, adapt, and solve real-world problems** —
+from speech denoising models for Parkinson's patients
+to cost-aware predictive maintenance for heavy-duty vehicles.
 
 ```yaml
-# devesh-lingutla.yaml  ──  Model Card v2025
-# ─────────────────────────────────────────────
-
-name:               Devesh Lingutla
-model_type:         AI / ML Researcher
-base_architecture:  B.Tech — Electronics & Communication Engineering
-                    Specialisation: Cyber Physical Systems
-                    SRM University of Science & Technology  |  CGPA: 7.75
-
-fine_tuned_on:
-  - Deep Learning for Speech & Signal Processing
-  - Temporal Predictive Maintenance (BiLSTM, Attention)
-  - Self-Supervised Representation Learning (wav2vec 2.0)
-  - Cost-Sensitive & Imbalanced Classification
-
-benchmark_scores:
-  IEEE_publications:  1   # under review — ICCMC 2026
-  IELTS_band:         7.0
-  academic_CGPA:      7.75 / 10.0
-
-deployment_target:  "MSc Computer Science / Data Science — 2027 intake"
-location:           "Hyderabad, India 🇮🇳"
-open_to:            ["research_internships", "ml_engineer_roles", "collaborations"]
+model_type:    AI / ML Researcher
+university:    SRM University (ECE — Cyber Physical Systems)
+CGPA:          7.75 / 10.0
+IEEE_paper:    Under Review — ICCMC 2026
+IELTS:         Band 7.0
+goal:          MSc Computer Science / Data Science — 2027
+location:      Hyderabad, India 🇮🇳
 ```
 
-### 🔍 Currently Exploring
-- **`LLMs & Agentic AI`** — intelligent systems that reason and act
-- **`MLOps`** — taking models from Jupyter notebooks to production
-- **`Time-Series Deep Learning`** — temporal degradation patterns in industrial data
-- **`Research-to-Publication Pipeline`** — converting experiments into IEEE papers
+**Currently exploring:**
+LLMs & Agentic AI • MLOps • Time-Series Deep Learning • Research-to-Publication Pipelines
 
 <br/>
 
-<!-- ════════════════════  PROJECTS  ═════════════════════════════ -->
+<!-- DIVIDER -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7b2fff,100:3a0ca3&height=3" />
 
-## 🚀 DEPLOYED RESEARCH — Projects
+<br/>
+
+## 🚀 Featured Projects
+
+### 🔹 Parkinson's Speech Denoiser
+
+### *Adaptive Filtering & Deep Learning for Neurological Speech Analysis*
+
+A complete speech analysis framework targeting Parkinson's Disease patients using
+self-supervised representation learning — built to overcome chronic challenges of
+small, heavily imbalanced medical datasets.
+
+#### Highlights
+- Extracted contextual embeddings using frozen **wav2vec 2.0** to reduce data dependence
+- Tackled class imbalance with **Focal Loss** and threshold optimisation
+- Improved generalisation through gradient stabilisation techniques
+- Majority voting **ensemble-style** inference for robust classification
+- Outperformed traditional ML baselines on Parkinson's speech datasets
+
+#### Stack
+`Python` • `PyTorch` • `wav2vec 2.0` • `Librosa` • `Scikit-Learn` • `NumPy`
 
 ---
 
-### 🔬 Parkinson's Speech Denoiser — Adaptive Deep Learning Framework
+### 🔹 AutoRUL — Cost-Aware Temporal Predictive Maintenance
 
-**`wav2vec 2.0 · Focal Loss · Ensemble Voting`** — *Self-Supervised Neurological Speech Analysis*
+### *Remaining Useful Life Risk Classification in Heavy-Duty Vehicles*
 
-A complete speech analysis system for Parkinson's Disease patients that overcomes the core challenge of small, class-imbalanced medical datasets using self-supervised deep learning.
+An industrial predictive maintenance framework using cost-aware temporal deep learning for
+RUL risk classification in heavy truck engines — where a missed failure costs far more than
+a false alarm.
 
-| Module | Method |
-|--------|--------|
-| 🧠 Feature Extraction | Frozen **wav2vec 2.0** contextual embeddings |
-| ⚖️ Imbalance Handling | **Focal Loss** + threshold optimisation |
-| 🔧 Generalisation | Gradient stabilisation techniques |
-| 🗳️ Inference | Majority voting **ensemble** |
-| 📈 Result | Outperforms traditional ML baselines |
+#### Highlights
+- Sequential degradation modelling with **Bidirectional LSTM + Attention Mechanism**
+- Tackled industrial risk asymmetry with a **hybrid cost-regularised loss function**
+- Improved generalisation via **balanced probabilistic calibration**
+- Significant reduction in operational validation costs vs. non-temporal ML baselines
+- **Under Review — ICCMC 2026, IEEE** `979-8-3315-1211-8`
 
-**Stack:** `Python` &nbsp; `PyTorch` &nbsp; `wav2vec 2.0` &nbsp; `Librosa` &nbsp; `Scikit-Learn` &nbsp; `NumPy`
-
----
-
-### 🏭 AutoRUL — Cost-Aware Temporal Predictive Maintenance
-
-**`BiLSTM · Attention · Cost-Regularised Loss`** — *Under Review at IEEE ICCMC 2026*
-
-An industrial predictive maintenance framework for Remaining Useful Life (RUL) risk classification in heavy truck engines — where a missed failure costs far more than a false alarm.
-
-| Module | Method |
-|--------|--------|
-| 🔁 Architecture | **Bidirectional LSTM** + Attention Mechanism |
-| 💰 Loss Design | Hybrid **cost-regularised** loss function |
-| ⚖️ Imbalance | Class-weighted training |
-| 🎯 Calibration | Balanced probabilistic calibration |
-| 📉 Result | Substantial reduction in validation costs vs. non-temporal ML |
-
-**Stack:** `Python` &nbsp; `TensorFlow` &nbsp; `Keras` &nbsp; `Pandas` &nbsp; `NumPy` &nbsp; `Scikit-Learn`
+#### Stack
+`Python` • `TensorFlow` • `Keras` • `Pandas` • `NumPy` • `Scikit-Learn`
 
 <br/>
 
-<!-- ════════════════════  PUBLICATIONS  ════════════════════════ -->
+<!-- DIVIDER -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7b2fff,100:3a0ca3&height=3" />
 
-## 📡 RESEARCH OUTPUT
+<br/>
 
-<details>
-<summary><b>📄 &nbsp; [UNDER REVIEW] &nbsp; Cost-Aware Temporal Deep Learning for RUL Risk Classification in Heavy-Duty Vehicles</b></summary>
+## 🧠 Research Publications
+
+### 📄 Cost-Aware Temporal Deep Learning for Remaining Useful Life Risk Classification in Heavy-Duty Vehicles
+
+A predictive maintenance research work focused on temporal deep learning architectures
+for industrial RUL risk classification in heavy-duty vehicle engines using cost-sensitive
+learning strategies.
+
+#### Publication
+Under Review at **ICCMC 2026 — 9th IEEE International Conference on Computing Methodologies and Communication**
+
+To be published in:
+- IEEE Xplore Conference Proceedings
+- IEEE Xplore Compliant ISBN: `979-8-3315-1211-8`
+- IEEE DVD ISBN: `979-8-3315-1210-1`
 
 <br/>
 
-**Conference:** 9th International Conference on Computing Methodologies and Communication **(ICCMC 2026)**  
-**Venue:** Tamil Nadu, India &nbsp;|&nbsp; July 8–10, 2026  
-**Publisher:** IEEE Xplore
-
-| Field | Details |
-|-------|---------|
-| Review Status | 🔄 Under Review |
-| ISBN — IEEE Xplore | `979-8-3315-1211-8` |
-| ISBN — DVD | `979-8-3315-1210-1` |
-| Research Focus | Temporal Deep Learning · Predictive Maintenance · Cost-Sensitive Learning |
-
-</details>
-
-<br/>
-
-<!-- ════════════════════  CERTIFICATIONS  ══════════════════════ -->
-<details>
-<summary><b>🏅 &nbsp; Certifications</b></summary>
-
-<br/>
-
-| Certification | Issuer | Date |
-|---------------|--------|------|
-| MySQL Certification | Codegnan | May 2026 |
-| Java Certification | Udemy | Jan 2026 |
-| Crash Course on Python | Google / Coursera | Jul 2024 |
-
-</details>
-
-<br/>
-
-<!-- ════════════════════  TECH ARSENAL  ════════════════════════ -->
+<!-- DIVIDER -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7b2fff,100:3a0ca3&height=3" />
 
-## ⚡ TECH ARSENAL
+<br/>
 
-**Languages**
+## ⚡ Tech Arsenal
+
+### Languages
 <p>
   <img src="https://skillicons.dev/icons?i=python" title="Python" />&nbsp;
   <img src="https://skillicons.dev/icons?i=java" title="Java" />&nbsp;
   <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" />
 </p>
 
-**Deep Learning & AI**
+### AI / ML & Signal Processing
 <p>
   <img src="https://skillicons.dev/icons?i=tensorflow" title="TensorFlow" />&nbsp;
   <img src="https://skillicons.dev/icons?i=pytorch" title="PyTorch" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=opencv" title="OpenCV" />&nbsp;
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" height="47" />&nbsp;
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" height="47" />&nbsp;
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" height="47" />&nbsp;
-  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white" height="47" />
+  <img src="https://skillicons.dev/icons?i=opencv" title="OpenCV" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" height="45" />&nbsp;
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" height="45" />&nbsp;
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" height="45" />&nbsp;
+  <img src="https://img.shields.io/badge/Librosa-FF6B6B?style=flat-square&logoColor=white" height="45" />&nbsp;
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white" height="45" />
 </p>
 
-**Web, Dev & Tools**
+### Web & Frameworks
 <p>
   <img src="https://skillicons.dev/icons?i=flask" title="Flask" />&nbsp;
   <img src="https://skillicons.dev/icons?i=html" title="HTML" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=css" title="CSS" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=css" title="CSS" />
+</p>
+
+### Tools & Platforms
+<p>
   <img src="https://skillicons.dev/icons?i=git" title="Git" />&nbsp;
   <img src="https://skillicons.dev/icons?i=github" title="GitHub" />&nbsp;
   <img src="https://skillicons.dev/icons?i=vscode" title="VS Code" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=linux" title="Linux" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=jupyter" title="Jupyter" />
+  <img src="https://skillicons.dev/icons?i=jupyter" title="Jupyter" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=linux" title="Linux" />
 </p>
 
 <br/>
 
-<!-- ════════════════════  GITHUB STATS  ════════════════════════ -->
+<!-- DIVIDER -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7b2fff,100:3a0ca3&height=3" />
 
-## 📊 PERFORMANCE METRICS
+<br/>
+
+## 📈 GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Devesh6996&show_icons=true&title_color=c77dff&text_color=e0aaff&icon_color=7b2fff&bg_color=0d0221&hide_border=true&border_radius=10" height="170" />
@@ -199,21 +195,17 @@ An industrial predictive maintenance framework for Remaining Useful Life (RUL) r
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Devesh6996&layout=compact&title_color=c77dff&text_color=e0aaff&bg_color=0d0221&hide_border=true&border_radius=10" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Devesh6996&bg_color=0d0221&color=c77dff&line=7b2fff&point=e0aaff&area=true&hide_border=true" />
 </p>
 
-<!-- SNAKE — needs GitHub Actions (see setup instructions) -->
+<!-- SNAKE ANIMATION — enable via GitHub Actions (see setup below) -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/Devesh6996/Devesh6996/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 <br/>
 
-<!-- ════════════════════  FOOTER  ══════════════════════════════ -->
+<!-- WAVING FOOTER — purple reversed -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:7b2fff,50:3a0ca3,100:0d0221&height=140&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7b2fff,40:3a0ca3,100:0d0221&height=140&section=footer" />
 </p>
