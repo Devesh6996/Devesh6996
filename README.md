@@ -2,14 +2,14 @@
 <!--           DEVESH LINGUTLA — GITHUB PROFILE README           -->
 <!-- ══════════════════════════════════════════════════════════════ -->
 
-<!-- WAVING HEADER — purple palette -->
+<!-- WAVING HEADER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,40:3a0ca3,100:7b2fff&height=260&section=header&text=Devesh%20Lingutla&fontSize=58&fontColor=e0aaff&fontAlignY=38&fontAlign=50&desc=AI%20Researcher%20%7C%20Deep%20Learning%20%7C%20IEEE%20Author&descAlignY=60&descSize=18&animation=fadeIn" />
 </p>
 
 <!-- TYPING SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2600&pause=800&color=C77DFF&center=true&vCenter=true&width=850&lines=Researcher+by+Curiosity%3B+Engineer+by+Obsession;BiLSTM+%2B+Attention+Mechanism+%2B+Cost-Aware+Loss;wav2vec+2.0+%7C+Focal+Loss+%7C+Ensemble+Learning;ECE+%E2%86%92+Deep+Learning+%E2%86%92+MSc+CS+%2F+Data+Science;Building+systems+that+learn%2C+adapt+and+scale" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2600&pause=800&color=C77DFF&center=true&vCenter=true&width=850&lines=Researcher+by+Curiosity%3B+Engineer+by+Obsession;BiLSTM+%2B+Attention+Mechanism+%2B+Cost-Aware+Loss;wav2vec+2.0+%7C+Focal+Loss+%7C+Ensemble+Learning;Building+systems+that+learn%2C+adapt+and+scale" />
 </p>
 
 <!-- SOCIAL LINKS -->
@@ -23,7 +23,7 @@
   </a>
 </p>
 
-<!-- ANIMATED GIF ICON ROW -->
+<!-- ANIMATED GIF ROW -->
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="60" />
   <img src="https://user-images.githubusercontent.com/74038190/212281763-e6ecd7ef-c4aa-45b6-a97c-f33f6bb592bd.gif" width="60" />
@@ -50,20 +50,10 @@ I build systems that **learn, adapt, and solve real-world problems** —
 from speech denoising models for Parkinson's patients
 to cost-aware predictive maintenance for heavy-duty vehicles.
 
-```yaml
-model_type:    AI / ML Researcher
-university:    SRM University (ECE — Cyber Physical Systems)
-CGPA:          7.75 / 10.0
-IEEE_paper:    Under Review — ICCMC 2026
-IELTS:         Band 7.0
-goal:          MSc Computer Science / Data Science — 2027
-location:      Hyderabad, India 🇮🇳
-```
-
 **Currently exploring:**
 LLMs & Agentic AI • MLOps • Time-Series Deep Learning • Research-to-Publication Pipelines
 
-<br/>
+<br/><br/><br/>
 
 <!-- DIVIDER -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7b2fff,100:3a0ca3&height=3" />
@@ -198,14 +188,14 @@ To be published in:
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Devesh6996&bg_color=0d0221&color=c77dff&line=7b2fff&point=e0aaff&area=true&hide_border=true" />
 </p>
 
-<!-- SNAKE ANIMATION — enable via GitHub Actions (see setup below) -->
+<!-- SNAKE ANIMATION — needs one-time GitHub Actions setup -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/Devesh6996/Devesh6996/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 <br/>
 
-<!-- WAVING FOOTER — purple reversed -->
+<!-- WAVING FOOTER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7b2fff,40:3a0ca3,100:0d0221&height=140&section=footer" />
 </p>
