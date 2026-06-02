@@ -166,18 +166,18 @@ A predictive maintenance research work focused on temporal deep learning archite
 <!-- REPLACE 'YOUR_GITHUB_USERNAME' with your actual GitHub username in all 3 lines below -->
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Devesh6996&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
   &nbsp;&nbsp;
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://streak-stats.demolab.com?user=Devesh6996&theme=tokyonight&hide_border=true" height="170" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Devesh6996&theme=tokyo-night&hide_border=true&area=true" />
 </p>
 
 <!-- SNAKE ANIMATION — needs GitHub Actions setup (see instructions below) -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/Devesh6996/Devesh6996/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 <br/>
