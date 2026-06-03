@@ -40,20 +40,33 @@
 
 ## 🧬 About Me
 
-<img align="right" src="https://media1.tenor.com/m/9-k5BGypA-oAAAAC/nub-nub-cat.gif" width="220" />
+<img align="right" src="https://media1.tenor.com/m/CfgUEkf6_fEAAAAd/unemployed-unemployment.gif" width="220" />
 
-Researcher by curiosity.
-Engineer by obsession.
-Builder by instinct.
+Currently undeployed. Fuelled by research papers and questionable energy drinks.
 
-I build systems that **learn, adapt, and solve real-world problems** —
-from speech denoising models for Parkinson's patients
-to cost-aware predictive maintenance for heavy-duty vehicles.
+I build systems that **learn, adapt, and solve real problems** —
+from denoising speech signals for Parkinson's patients
+to predicting engine failures before they happen.
 
-**Currently exploring:**
-LLMs & Agentic AI • MLOps • Time-Series Deep Learning • Research-to-Publication Pipelines
+My models converge. My career trajectory: loading...
 
-<br/><br/><br/>
+```
+[ SYSTEM STATUS ]
+Mode        →  Build. Break. Iterate. Repeat.
+Last commit →  IEEE paper submission
+Fuel        →  Research + Monster Energy
+Status      →  Available for deployment 🟢
+```
+
+**🔬 Currently Exploring**
+
+- `Speech Signal Processing` — denoising, wav2vec 2.0, neurological disorder detection
+- `Temporal Deep Learning` — LSTM architectures for time-series industrial data
+- `Cost-Sensitive Learning` — imbalanced classification in high-stakes environments
+- `Self-Supervised Learning` — leveraging pre-trained representations for medical AI
+- `Predictive Maintenance AI` — RUL estimation and failure prediction systems
+
+<br/><br/>
 
 <!-- DIVIDER -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7b2fff,100:3a0ca3&height=3" />
@@ -162,11 +175,11 @@ To be published in:
 
 ### Tools & Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=git" title="Git" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=github" title="GitHub" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=vscode" title="VS Code" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=jupyter" title="Jupyter" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=linux" title="Linux" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" height="45" />&nbsp;
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" height="45" />&nbsp;
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" height="45" />&nbsp;
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" height="45" />&nbsp;
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" height="45" />
 </p>
 
 <br/>
@@ -188,9 +201,9 @@ To be published in:
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Devesh6996&bg_color=0d0221&color=c77dff&line=7b2fff&point=e0aaff&area=true&hide_border=true" />
 </p>
 
-<!-- SNAKE ANIMATION — needs one-time GitHub Actions setup -->
+<!-- GITHUB TROPHIES — game achievement style, no setup needed -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Devesh6996/Devesh6996/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Devesh6996&theme=radical&no-frame=true&no-bg=true&margin-w=6&row=1" />
 </p>
 
 <br/>
