@@ -40,15 +40,7 @@
 
 ## 🧬 About Me
 
-<!-- ============================================================ -->
-<!-- REPLACE THE URL BELOW with your GitHub-hosted GIF URL        -->
-<!-- Steps:                                                        -->
-<!-- 1. Go to any repo → Issues → New Issue                       -->
-<!-- 2. Drag and drop your downloaded GIF into the text box       -->
-<!-- 3. Copy the generated https://user-images.githubusercontent  -->
-<!--    .com/... URL and paste it below replacing YOUR_GIF_URL    -->
-<!-- ============================================================ -->
-<img align="right" src="YOUR_GIF_URL" width="220" />
+<img align="right" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHIzY3UyNnJ3bTQwcGp0aTU1ZjhjNHRrbjNkNGJtYWc5d2w3OTg0dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iXddTiRCIxPeGA0k2O/giphy.gif" width="220" />
 
 Currently undeployed. Fuelled by research papers and questionable energy drinks.
 
