@@ -40,7 +40,15 @@
 
 ## 🧬 About Me
 
-<img align="right" src="https://media1.tenor.com/m/CfgUEkf6_fEAAAAd/unemployed-unemployment.gif" width="220" />
+<!-- ============================================================ -->
+<!-- REPLACE THE URL BELOW with your GitHub-hosted GIF URL        -->
+<!-- Steps:                                                        -->
+<!-- 1. Go to any repo → Issues → New Issue                       -->
+<!-- 2. Drag and drop your downloaded GIF into the text box       -->
+<!-- 3. Copy the generated https://user-images.githubusercontent  -->
+<!--    .com/... URL and paste it below replacing YOUR_GIF_URL    -->
+<!-- ============================================================ -->
+<img align="right" src="YOUR_GIF_URL" width="220" />
 
 Currently undeployed. Fuelled by research papers and questionable energy drinks.
 
@@ -77,7 +85,7 @@ Status      →  Available for deployment 🟢
 
 ### 🔹 Parkinson's Speech Denoiser
 
-### *Adaptive Filtering & Deep Learning for Neurological Speech Analysis*
+#### *Adaptive Filtering & Deep Learning for Neurological Speech Analysis*
 
 A complete speech analysis framework targeting Parkinson's Disease patients using
 self-supervised representation learning — built to overcome chronic challenges of
@@ -97,7 +105,7 @@ small, heavily imbalanced medical datasets.
 
 ### 🔹 AutoRUL — Cost-Aware Temporal Predictive Maintenance
 
-### *Remaining Useful Life Risk Classification in Heavy-Duty Vehicles*
+#### *Remaining Useful Life Risk Classification in Heavy-Duty Vehicles*
 
 An industrial predictive maintenance framework using cost-aware temporal deep learning for
 RUL risk classification in heavy truck engines — where a missed failure costs far more than
